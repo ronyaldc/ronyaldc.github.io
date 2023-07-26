@@ -125,7 +125,7 @@ b, strong {
   display: block;
   opacity: 0;
   overflow: hidden;
-  position: absolute;
+  position: relative;
   top: 0;
   right: 0;
   left: 0;
